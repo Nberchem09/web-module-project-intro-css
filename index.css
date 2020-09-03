@@ -33,49 +33,52 @@ body{
    text-decoration: none;
    font-size: 1.6rem;
    font-family: 'Roboto Mono', monospace;
+   margin: 3%;
 }
 img{
     max-width: 100%;
 }
 .plan{
     background-color:#FF764E;
-    padding:5%;
+    padding:2%;
     margin: 5px auto;
     text-decoration: none;
     color: white;
+    border-radius: 10%;
 }
 .learn{
     background-color: #5ED3EB;
-    padding: 5%;
+    padding: 2%;
     margin: 5px auto;
     text-decoration: none;
     color: white;
+    border-radius: 10%;
 }
 .involved{
     background-color: #FFCD69;
-    padding: 5%;
+    padding: 2%;
     margin: 5px auto;
     text-decoration: none;
     color: white;
+    border-radius: 10%;
 }
-.welcome{
-    margin: 5px;
+.logo img{
+    width: 20%;
+    display: inline-block;
+    margin: 5% 3%;
+    border-radius: 50%;
+    border: 0;
+}
+.head{
+    width: 30%;
+    margin: 3%;
+    padding: 3% 0;
+    border: 0;
+    display: inline-block;
 }
 h1{
     font-family: 'Chelsea Market', cursive;
     font-size: 3.8rem;
-}
-.logo{
-    width: 20%;
-    display: inline-block;
-    border-radius: 20%;
-    margin: 10% 3%;
-}
-.head{
-    display: inline-block;
-    width: 30%;
-    margin: 5%;
-    padding: 10% 0;
 }
 .about{
     background-color: #DDB9A3;
