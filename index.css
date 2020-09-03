@@ -1,0 +1,110 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+   line-height: 1.5;
+   text-decoration: none;
+   font-size: 1.6rem;
+   font-family: 'Roboto Mono', monospace;
+}
+img{
+    max-width: 100%;
+}
+.plan{
+    background-color:#FF764E;
+    padding:5%;
+    margin: 5px auto;
+    text-decoration: none;
+    color: white;
+}
+.learn{
+    background-color: #5ED3EB;
+    padding: 5%;
+    margin: 5px auto;
+    text-decoration: none;
+    color: white;
+}
+.involved{
+    background-color: #FFCD69;
+    padding: 5%;
+    margin: 5px auto;
+    text-decoration: none;
+    color: white;
+}
+.welcome{
+    margin: 5px;
+}
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 3.8rem;
+}
+.logo{
+    width: 20%;
+    display: inline-block;
+    border-radius: 20%;
+    margin: 10% 3%;
+}
+.head{
+    display: inline-block;
+    width: 30%;
+    margin: 5%;
+    padding: 10% 0;
+}
+.about{
+    background-color: #DDB9A3;
+    padding: 3%;
+    margin: 0 3%;
+    color: white;
+    font-size: 1.8rem;
+}
+span{
+    font-weight: bold;
+}
+.fire p{
+    font-size: 1.9rem;
+    padding: 0 36%;
+}
+.fire img{
+    width: 10%;
+    margin: 5%;
+}
+.camping p{
+    font-size: 1.9rem;
+    padding: 0 36%;
+    margin: 0 0 3% 0;
+}
+.camping img{
+    width: 10%;
+    margin: 5%;
+}
+
+
+
+
